@@ -1,2 +1,2 @@
-# datascience_ML
- Repo for DS and ML learning
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
