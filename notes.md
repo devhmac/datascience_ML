@@ -90,3 +90,9 @@ Just take square root of mean squared error, punishes error, but returns Y's met
 What is a good RMSE?
 
 - Compare your error metric to the average value of the label in your dataset to get an intuition for overall performance
+
+  ***
+
+# Machine Learning with python
+
+Data Aquisition -> Cleaning -> split data -> model training/building (half or third of data) ->testing -other half of segregated data -> deploy
